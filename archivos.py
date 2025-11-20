@@ -1,0 +1,1 @@
+"""papi primero aprenda sobre el csv antes de intentar hacer esto"""
